@@ -1,0 +1,8 @@
+site_name: Laskin- projektin koodi
+
+plugins: 
+  - mkdocstrings
+
+nav: 
+  - Index: index.md
+  - Laskin: reference.md
