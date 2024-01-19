@@ -1,0 +1,6 @@
+coverage
+pytest
+pylint
+mkdocs
+mkdocstrings
+mkdocstrings-python

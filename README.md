@@ -19,6 +19,17 @@ Alussa myös hyvä tehdä jo kaikkien tarvittavien asioiden asennus, lue tarkkaa
 # riippuvuuksien asentaminen
 python3 -m pip install coverage pytest pylint mkdocs mkdocstrings mkdocstrings-python
 ```` 
+# VAIHTOEHTOINEN YMPÄRISTÖ
+
+Luo pythonin virtuaaliympäristö   
+`python -m venv --copies .venv`
+
+Aktivoi:
+`source .venv/scripts/activate`
+
+Asenna riippuvuudet:
+`pip install -r requirements.txt`
+
 
 # Sprint 1: Laskimen koodaus 
 
